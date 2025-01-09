@@ -25,7 +25,7 @@ function draw() {
     let sec = second();
     
     // Constants for sizing
-    let circleRadius = 90;
+    let circleRadius = 100;
     let dotMaxRadius = circleRadius * 0.9;
     let dotMinRadius = circleRadius * 0.25;
     let dotSize = 2;
